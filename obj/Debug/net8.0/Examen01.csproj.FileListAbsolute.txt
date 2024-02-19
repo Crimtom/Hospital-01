@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\Examen01\Examen01\bin\Debug\net8.0\Examen01.exe
+C:\Users\adria\source\repos\Examen01\Examen01\bin\Debug\net8.0\Examen01.deps.json
+C:\Users\adria\source\repos\Examen01\Examen01\bin\Debug\net8.0\Examen01.runtimeconfig.json
+C:\Users\adria\source\repos\Examen01\Examen01\bin\Debug\net8.0\Examen01.dll
+C:\Users\adria\source\repos\Examen01\Examen01\bin\Debug\net8.0\Examen01.pdb
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.AssemblyInfo.cs
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.dll
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\refint\Examen01.dll
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.pdb
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\Examen01.genruntimeconfig.cache
+C:\Users\adria\source\repos\Examen01\Examen01\obj\Debug\net8.0\ref\Examen01.dll
